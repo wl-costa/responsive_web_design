@@ -12,9 +12,9 @@ As a beginner in the field of web development, I am continuously learning and im
 
 - **Description**: It's a simple project that basically demonstrates the functioning and use of HTML tags within a web page. The cute cats are mere visual preciousness.
 
-## Technologies Used In This Project
+Technologies Used In This Project:
 - HTML
-
+##
 
 
 
