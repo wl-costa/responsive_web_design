@@ -3,6 +3,14 @@ body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 
+h1 {
+    font-size: 40px;
+  }
+  
+h2 {
+    font-size: 30px;
+  }
+
 .established {
     font-style: italic;
   }
