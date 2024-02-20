@@ -16,7 +16,14 @@ Technologies Used In This Project:
 - HTML
 ##
 
+### Project 2: Cafe Menu
 
+- **Description**: 
+
+Technologies Used In This Project:
+- HTML
+- CSS
+##
 
 
 
