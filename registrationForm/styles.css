@@ -70,3 +70,7 @@ input[type="submit"] {
     min-width: 300px;
     /*used attribute selector to change submit input style*/
 }
+
+input[type="file"] {
+    padding: 1px 2px;
+}
