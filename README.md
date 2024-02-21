@@ -27,7 +27,7 @@ Technologies Used In This Project:
 
 ### Project 3: CSS Color Markers
 
-- **Description**: A project that was mainly designed to show and teach color usage on CSS with rgb properties, as well as teaching how to color scheme a website.
+- **Description**: A project that was mainly designed to demonstrate color usage on CSS with rgb, hex and hsl, as well as demonstrate how to use different CSS functions like gradients
 
 Technologies Used In This Project:
 - HTML
