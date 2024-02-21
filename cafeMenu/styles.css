@@ -77,3 +77,10 @@ a:visited {
   a:hover {
     color: brown;
 }
+
+
+a:active {
+    color: white;
+  }
+
+  
