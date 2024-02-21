@@ -35,6 +35,10 @@ hr {
     border-color: brown;
 }
 
+.bottom-line {
+    margin-top: 25px;
+}
+
 h1, h2 {
     font-family: Impact, serif;
 }
