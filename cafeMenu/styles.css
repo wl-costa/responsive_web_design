@@ -68,6 +68,10 @@ footer {
     font-size: 14px;
 }
 
+.email {
+    margin-bottom: 5px
+}
+
 a {
     color: black
 }
