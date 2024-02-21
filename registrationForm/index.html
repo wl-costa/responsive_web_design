@@ -14,26 +14,28 @@
     <form action="https://register-demo.freecodecamp.org" method="POST">
 
         <fieldset>
-            <label for="first-name">Enter Your First Name: <input id="first-name" type="text" required /></label>
-            <label for="last-name">Enter Your Last Name: <input id="last-name" type="text" required /></label>
-            <label for="email">Enter Your Email: <input id="email" type="email" required /></label>
-            <label for="new-password">Create a New Password: <input id="new-password" type="password"
+            <label for="first-name">Enter Your First Name: <input id="first-name" type="text" name="first_name"
+                    required /></label>
+            <label for="last-name">Enter Your Last Name: <input id="last-name" type="text" name="last_name"
+                    required /></label>
+            <label for="email">Enter Your Email: <input id="email" type="email" name="email" required /></label>
+            <label for="new-password">Create a New Password: <input id="new-password" type="password" name="password"
                     pattern="[a-z0-5]{8,}" required /></label>
         </fieldset>
-
         <fieldset>
             <legend>Account type (required)</legend>
-            <label for="personal-account"><input type="radio" name="account-type" id="personal-account" checked />
-                Personal</label>
-            <label for="business-account"><input type="radio" name="account-type" id="business-account" />
-                Business</label>
+            <label for="personal-account"><input id="personal-account" type="radio" name="account-type" name="personal"
+                    checked /> Personal</label>
+            <label for="business-account"><input id="business-account" type="radio" name="account-type"
+                    name="business" /> Business</label>
         </fieldset>
-
         <fieldset>
-            <label for="profile-picture">Upload a profile picture: <input id="profile-picture" type="file" /></label>
-            <label for="age">Input your age (years): <input id="age" type="number" min="13" max="120" /></label>
+            <label for="profile-picture">Upload a profile picture: <input id="profile-picture" type="file"
+                    name="profile-pic" /></label>
+            <label for="age">Input your age (years): <input id="age" type="number" min="13" max="120"
+                    name="age" /></label>
             <label for="referrer">How did you hear about us?
-                <select id="referrer">
+                <select id="referrer" name="referrer">
                     <option value="">(select one)</option>
                     <option value="1">freeCodeCamp News</option>
                     <option value="2">freeCodeCamp YouTube Channel</option>
@@ -42,13 +44,14 @@
                 </select>
             </label>
             <label for="bio">Provide a bio:
-                <textarea id="bio"></textarea>
+                <textarea id="bio" rows="3" cols="30" name="textarea"
+                    placeholder="I like coding on the beach..."></textarea>
             </label>
         </fieldset>
-
-        <label for="terms-and-conditions"><input id="terms-and-conditions" type="checkbox" required />I accept the <a
-                href="https://www.freecodecamp.org/news/terms-of-service/" target="_blank">terms and
-                conditions</a></label>
+        <label for="terms-and-conditions">
+            <input id="terms-and-conditions" type="checkbox" name="terms" required /> I accept the <a
+                href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a>
+        </label>
         <input type="submit" value="Submit">
 
     </form>
