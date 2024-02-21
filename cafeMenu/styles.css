@@ -71,7 +71,7 @@ a {
 }
 
 a:visited {
-    color: grey;
+    color: black;
   }
 
   a:hover {
@@ -80,7 +80,5 @@ a:visited {
 
 
 a:active {
-    color: white;
-  }
-
-  
+    color: brown;
+}
