@@ -15,13 +15,13 @@ h1 {
 }
 
 .red {
-    background-color: rgb(255, 0, 0);
+    background: rgb(255, 0, 0);
 }
 
 .green {
-    background-color: #00FF00;
+    background: #00FF00;
 }
   
 .blue {
-    background-color: hsl(240, 100%, 50%);
+    background: hsl(240, 100%, 50%);
 }
