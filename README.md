@@ -18,7 +18,7 @@ Technologies Used In This Project:
 
 ### Project 2: Cafe Menu
 
-- **Description**: 
+- **Description**: A project that teaches the basics of CSS by creating a cafe menu.
 
 Technologies Used In This Project:
 - HTML
