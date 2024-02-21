@@ -27,7 +27,7 @@ Technologies Used In This Project:
 
 ### Project 3: CSS Color Markers
 
-- **Description**: A project that was mainly designed to demonstrate color usage on CSS with rgb, rgba, hex and hsl, as well as demonstrate how to use different CSS functions like gradients, color-stops, etc.
+- **Description**: A project that was mainly designed to demonstrate color usage on CSS with rgb, rgba, hex, alpha hex, hsl and hlsa, as well as demonstrate how to use different CSS functions like gradients, color-stops, etc.
 
 Technologies Used In This Project:
 - HTML
