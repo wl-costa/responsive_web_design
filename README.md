@@ -34,7 +34,14 @@ Technologies Used In This Project:
 - CSS
 ##
 
+### Project 4: Registration Form
 
+- **Description**: In this project, I've learnt HTML forms and how to control what types of data people can type into your form by building a signup page. Oh, and also some new CSS tools for styling my pages.
+
+Technologies Used In This Project:
+- HTML
+- CSS
+##
 
 
 
