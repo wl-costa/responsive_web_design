@@ -35,3 +35,8 @@ label {
     margin: 0.5rem 0;
     /*The rem unit stands for root em, and is relative to the font size of the html element.*/
 }
+
+input, textarea, select {
+    width: 100%;
+    margin: 10px 0 0;
+}
