@@ -25,7 +25,14 @@ Technologies Used In This Project:
 - CSS
 ##
 
+### Project 3: CSS Color Markers
 
+- **Description**:
+
+Technologies Used In This Project:
+- HTML
+- CSS
+##
 
 
 
