@@ -8,7 +8,8 @@ body {
     font-size: 16px;
 }
 
-h1, p {
+h1,
+p {
     margin: 1em auto;
     text-align: center;
 }
@@ -36,9 +37,20 @@ label {
     /*The rem unit stands for root em, and is relative to the font size of the html element.*/
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
     width: 100%;
     margin: 10px 0 0;
+    min-height: 2em;
+}
+
+input,
+textarea {
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+    min-height: 2em;
 }
 
 .inline {
