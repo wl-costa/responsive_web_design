@@ -15,10 +15,11 @@ p {
 }
 
 form {
-    margin: 0 auto;
+    width: 60vw;
     max-width: 500px;
     min-width: 300px;
-    width: 60vw;
+    margin: 0 auto;
+    padding-bottom: 2em;
 }
 
 fieldset {
