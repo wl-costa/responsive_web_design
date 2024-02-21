@@ -31,6 +31,12 @@ h1, h2, p {
     padding: 20px;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 hr {
     height: 2px;
     background-color: brown;
