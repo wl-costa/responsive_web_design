@@ -39,3 +39,8 @@ textarea {
     font-size: inherit;
     line-height: inherit;
 }
+
+button {
+    border: none;
+  }
+  
