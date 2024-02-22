@@ -115,4 +115,5 @@ form {
     background-color: #1b1b32;
     border-radius: 2px;
     cursor: pointer;
+    box-shadow: 0 0 20px 0 rgb(0, 0, 0, 0.8);
 }
