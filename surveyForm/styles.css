@@ -48,3 +48,8 @@ button {
     width: 100%;
     margin: 3.125rem auto 0 auto;
 }
+
+.header {
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+}
