@@ -1,74 +1,64 @@
 # Responsive Web Design Projects
 
-This repository showcases my journey as a beginner in creating responsive web design projects. The projects here demonstrate my progress and learning in the field of web development, specifically focusing on responsive design.
+Este repositório apresenta minha jornada como iniciante na criação de projetos de design responsivo na web. Os projetos aqui demonstram meu progresso e aprendizado no campo do desenvolvimento web, com foco específico no design responsivo.
 
-## Introduction
+# Projetos
 
-As a beginner in the field of web development, I am continuously learning and improving my skills. This repository serves as a portfolio to showcase my projects and the progress I have made in creating responsive web designs.
+### Projeto 1: <a href="https://github.com/wl-costa/web_responsive_design/tree/main/catPhotoApp">CatPhotoApp 🐱📷</a>
 
-## Projects
+- **Descrição**: Um projeto simples que demonstra o funcionamento e o uso de tags HTML em uma página da web. Os gatos fofos são pura preciosidade visual.
 
-### Project 1: CatPhotoApp
+Tecnologia utilizada nesse projeto:
 
-- **Description**: It's a simple project that basically demonstrates the functioning and use of HTML tags within a web page. The cute cats are mere visual preciousness.
-
-Technologies Used In This Project:
-- HTML
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ##
 
-### Project 2: Cafe Menu
+### Projeto 2: <a href="https://github.com/wl-costa/web_responsive_design/tree/main/cafeMenu">Cafe Menu ☕</a>
 
-- **Description**: A project that teaches the basics of CSS by creating a cafe menu.
+- **Descrição**: Um projeto que ensina os conceitos básicos de CSS ao criar o menu de um café.
 
-Technologies Used In This Project:
-- HTML
-- CSS
+Tecnologias utilizadas nesse projeto:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ##
 
-### Project 3: CSS Color Markers
+### Projeto 3: <a href="https://github.com/wl-costa/web_responsive_design/tree/main/cssColorMarkers">CSS Color Markers 🌈</a>
 
-- **Description**: A project that was mainly designed to demonstrate color usage on CSS with rgb, rgba, hex, alpha hex, hsl and hlsa, as well as demonstrate how to use different CSS functions like gradients, color-stops, etc.
+- **Descrição**: Um projeto projetado principalmente para demonstrar o uso de cores em CSS com rgb, rgba, hex, alpha hex, hsl e hsla, além de demonstrar como utilizar diferentes funções no CSS como gradientes, color-stops, etc.
 
-Technologies Used In This Project:
-- HTML
-- CSS
+Tecnologias utilizadas nesse projeto:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ##
 
-### Project 4: Registration Form
+### Projeto 4: <a href="https://github.com/wl-costa/web_responsive_design/tree/main/registrationForm">Registration Form 📄✔</a>
 
-- **Description**: In this project, I've learnt HTML forms and how to control what types of data people can type into your form by building a signup page. Oh, and also some new CSS tools for styling my pages.
+- **Descrição**: Neste projeto, aprendi sobre formulários HTML e como controlar os tipos de dados que as pessoas podem inserir em um formulário, criando uma página de registro. Ah, e também aprendi algumas novas ferramentas CSS para estilizar minhas páginas.
 
-Technologies Used In This Project:
-- HTML
-- CSS
+Tecnologias utilizadas nesse projeto:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ##
 
-### Project 5: Survey Form
+### Projeto 5: <a href="https://github.com/wl-costa/web_responsive_design/tree/main/surveyForm">Survey Form 📋</a> - EM CONSTRUÇÃO
 
-- **Description**: In this project, I've used all past projects knowledge to build a survey form.
+- **Descrição**: Neste projeto, utilizei todo o conhecimento adquirido nos projetos anteriores para construir um formulário de pesquisa.
 
-Technologies Used In This Project:
-- HTML
-- CSS
+Tecnologias utilizadas nesse projeto:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ##
 
 
+### Conclusão
 
+Estou animado para continuar minha jornada no desenvolvimento web e ansioso para criar mais projetos que demonstrem minhas habilidades e crescimento no design responsivo para a web.
 
+Se você tiver algum feedback ou sugestão, sinta-se à vontade para entrar em contato comigo.
 
-
-
-
-
-
-
-
-
-### Conclusion
-
-I am excited to continue my journey in web development and look forward to creating more projects that demonstrate my skills and growth in responsive web design.
-
-If you have any feedback or suggestions, please feel free to reach out to me.
-
-Thank you for visiting my repository!
+Obrigado por visitar meu repositório! 🌟
 
