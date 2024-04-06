@@ -53,7 +53,6 @@ Tecnologias utilizadas nesse projeto:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ##
 
-
 ### Conclusão
 
 Estou animado para continuar minha jornada no desenvolvimento web e ansioso para criar mais projetos que demonstrem minhas habilidades e crescimento no design responsivo para a web.
